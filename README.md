@@ -6,9 +6,9 @@ This repository is created and maintained by the team and the community of Hexle
 
 # nodejs-package
 
-[![Node CI](https://github.com/hexlet-boilerplates/nodejs-package/workflows/Node%20CI/badge.svg)](https://github.com/hexlet-boilerplates/nodejs-package/actions)
-[![Maintainability](https://api.codeclimate.com/v1/badges/dfc50c2d88cd46d069c1/maintainability)](https://codeclimate.com/github/hexlet-boilerplates/nodejs-package/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/dfc50c2d88cd46d069c1/test_coverage)](https://codeclimate.com/github/hexlet-boilerplates/nodejs-package/test_coverage)
+[![Node CI](https://github.com/andieelmes/hexlet-node-js/workflows/Node%20CI/badge.svg)](https://github.com/andieelmes/hexlet-node-js/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/dab464ac580ba09d0ec7/maintainability)](https://codeclimate.com/github/andieelmes/hexlet-node-js)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/dab464ac580ba09d0ec7/test_coverage)](https://codeclimate.com/github/andieelmes/hexlet-node-js)
 
 ## Setup
 
